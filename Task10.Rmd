@@ -1,0 +1,18 @@
+---
+title: "My Submission"
+author: Izzul
+output: html_document
+---
+
+## Why version control is useful
+
+1. Allows access to past code history to track project development
+2. Makes peer review of each other's code easier
+3. Reduces risk of loss of original code
+
+## Calculating 1 + 1
+
+```{r}
+result <- 1 + 1
+result
+```
