@@ -19,8 +19,10 @@ Output:
 11. Add a Level 2 header to the markdown file and a numbered list of three reasons why version control is useful
 12. In your R markdown file add a code snippt box that solves 1 + 1
 13. Push both the R markdown file (.Rmd) and the generated .html files to the new folder you created previously.
-14. Embed the course logo in the root Readme using Markdown 
+14. Embed the course logo in the root Readme using Markdown
 15. Link your R Markdown report using Markdown 
+
+![Course Logo](/Course Image.png)
 
 🚀 Stretch Goals: Terminal Challenge
 Switch to the Terminal tab in RStudio. Find the correct commands to complete these tasks without using the Git GUI buttons.
