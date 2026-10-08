@@ -22,7 +22,7 @@ Output:
 14. Embed the course logo in the root Readme using Markdown
 15. Link your R Markdown report using Markdown 
 
-![Course Logo](/Course Image.png)
+![Course Logo](https://avatars.githubusercontent.com/u/43290579?s=200&v=4)
 
 🚀 Stretch Goals: Terminal Challenge
 Switch to the Terminal tab in RStudio. Find the correct commands to complete these tasks without using the Git GUI buttons.
