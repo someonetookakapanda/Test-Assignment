@@ -5,7 +5,7 @@ To complete this assignment please do not use the website GUI unless specificall
 
 1. Fork this repository to your own GitHub account.
 2. Clone the repository to your own computer using RStudio.
-3. Add your name to the README.md file online (via the GitHub website) and include an informative commit message. 
+3. Add your name to the README.md file online (via the GitHub website) and include an informative commit message - Izzul
 4. Add your name to the R script then push this change using Git in RStudio.
 5. Add comments into the R script describing what each line does, then push these changes to Github.
 6. Edit .gitignore to exclude .Rproj.user files.  Your commit message must briefly explain why this file type should be ignored .
