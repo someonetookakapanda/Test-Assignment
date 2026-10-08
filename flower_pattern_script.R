@@ -1,3 +1,5 @@
+# Author: Izzul
+
 # Makes a flower pattern
 
 t  <- 1:500
