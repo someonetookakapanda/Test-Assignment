@@ -20,7 +20,7 @@ Output:
 12. In your R markdown file add a code snippt box that solves 1 + 1
 13. Push both the R markdown file (.Rmd) and the generated .html files to the new folder you created previously.
 14. Embed the course logo in the root Readme using Markdown
-15. Link your R Markdown report using Markdown 
+15. [Link](./Task10.html) your R Markdown report using Markdown 
 
 ![Course Logo](https://avatars.githubusercontent.com/u/43290579?s=200&v=4)
 
